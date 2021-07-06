@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SalihFurkanSaglam" alt="semihcinar" /> </p>
 
-
+<body>
 <table border="1">
     <tr>
         <td>computer: Data Visualization </td>
@@ -24,7 +24,7 @@
         <td><a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/> </a></td>
     <tr>
 </table>
-
+</body>
 
 
 
