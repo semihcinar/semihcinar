@@ -1,4 +1,4 @@
-## Hi İ m Semih ÇINAR 👋
+## Hey I'm Semih ÇINAR 👋
 
 
 - 🔭 I’m currently working on Data Visualization Tools (Matplotlib | Seaborn | Pandas's Own Visualization Features)
