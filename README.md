@@ -39,7 +39,7 @@ computer: Data Visualization
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="40"/> </a> 
 </p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=semihcinar&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=semihcinar&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=semihcinar&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihcinar&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihcinar&theme=chartreuse-dark&layout=compact" alt="languages" width="100%" > </p>
