@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3><p align="left">
 
-<a href="https://https://www.linkedin.com/in/semih-%C3%A7inar-6a448052/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/semih-%c3%a7inar-6a448052/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/semih-%C3%A7inar-6a448052/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/semih-%c3%a7inar-6a448052/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/http://www.hackerearth.com/@semihcinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="http://www.hackerearth.com/@semihcinar" height="30" width="40" /></a>
 <a href="https://kaggle.com/semihnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="semihnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/semihcinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="semihcinar" height="30" width="40" /></a>
