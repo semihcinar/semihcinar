@@ -28,14 +28,7 @@
 <a href="https://www.youtube.com/c/youtube.com/semihcinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/semihcinar" height="30" width="40" /></a>
 
 </p>
-
-
-
-## 👨👩 Social
-
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semih-%C3%A7inar-6a448052/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:semihcinar@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SalihFurkanSaglam" alt="semihcinar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=semihcinar" alt="semihcinar" /> </p>
 
 computer: Data Visualization
 
