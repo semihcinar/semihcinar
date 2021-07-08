@@ -92,4 +92,4 @@ computer: Data Visualization
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semihcinar&show_icons=true&locale=en" alt="semihcinar" width="100%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semihcinar&" alt="semihcinar" height="%40" width="100%" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semihcinar&" alt="semihcinar" height="%20" width="100%" /></p>
