@@ -75,15 +75,6 @@ computer: Data Visualization
 
 -------------------------------****************************-------------------------------
 
-<h1 align="center">Hey 👋, I'm Semih</h1>
-<h2 align="center">Data Scientist candidate from TURKIYE</h2>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/semih-%c3%a7inar-6a448052/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/semih-%c3%a7inar-6a448052/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/semih.cinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/semih.cinar" height="30" width="40" /></a>
-</p>
-------------------------------------------------
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semihcinar&show_icons=true&locale=en&layout=compact" alt="semihcinar" width="100%" /></p>
 
