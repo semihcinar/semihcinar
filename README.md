@@ -6,7 +6,7 @@
 
 
 
-## Hey I'm Semih ÇINAR 👋 ()
+## Hey I'm Semih ÇINAR 👋
 
 
 - 🔭 I’m working on Data Science 
